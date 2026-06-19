@@ -15,10 +15,6 @@ Nas horas vagas, você me acha nos games. 🎮
 [![Java](https://skillicons.dev/icons?i=java)](https://java.com)
 [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://postgresql.org)
-[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](#)
-[![JPA Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](#)
-[![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)](#)
-[![Neon](https://img.shields.io/badge/Neon-00E5CC?style=for-the-badge&logo=neon&logoColor=black)](#)
 
 ### Front-end
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
