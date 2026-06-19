@@ -36,9 +36,9 @@ Nas horas vagas, você me acha nos games. 🎮
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasGuidugli&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasGuidugli&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasGuidugli&layout=compact&theme=tokyonight&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasGuidugli&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
