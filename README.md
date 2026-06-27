@@ -11,6 +11,7 @@ Nas horas vagas, você me acha nos games. 🎮
 
 ## ⚙️ Tecnologias que eu utilizo
 
+
 ### Back-end
 [![Java](https://skillicons.dev/icons?i=java)](https://java.com)
 [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io)
@@ -21,6 +22,10 @@ Nas horas vagas, você me acha nos games. 🎮
 [![Neon](https://img.shields.io/badge/Neon-00E5CC?style=for-the-badge&logo=neon&logoColor=black)](#)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](#)
 [![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge&logo=lombok&logoColor=white)](#)
+
+### Interfaces Graficas (GUI)
+[![JavaFX](https://img.shields.io/badge/JavaFX-0A8FDC?style=for-the-badge&logo=java&logoColor=white)](#)
+[![Java Swing](https://img.shields.io/badge/Java%20Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
 
 ### Front-end
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
