@@ -1,11 +1,16 @@
 # Olá! Eu sou o Nicolas Guidugli 
+
 ## 💻 Sobre mim
+
 Sou um desenvolvedor full stack de 23 anos, estudante de Análise e Desenvolvimento de Sistemas na **UNIVATES**.  
 Gosto de idealizar projetos, criar sistemas do zero e contribuir com projetos open source.  
 Acredito que boas ideias ganham vida quando pessoas certas conversam — adoro networking, trocar ideias e discutir projetos.  
 Nas horas vagas, você me acha nos games. 🎮
+
 ---
+
 ## ⚙️ Tecnologias que eu utilizo
+
 ### Back-end
 [![Java](https://skillicons.dev/icons?i=java)](https://java.com)
 [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io)
@@ -29,7 +34,9 @@ Nas horas vagas, você me acha nos games. 🎮
 [![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](https://app.diagrams.net)
 
 ---
+
 ## 📊 Minhas Estatísticas
+
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasGuidugli&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasGuidugli&layout=compact&theme=dark&hide_border=true)
@@ -37,8 +44,11 @@ Nas horas vagas, você me acha nos games. 🎮
 </div>
 
 ---
+
 ## ⚡ Vamos conversar?
+
 Adoro trocar ideias sobre projetos, tecnologia ou qualquer coisa que você esteja construindo.  
 Me chama! 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-eduardo-774345360/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicolasGuidugli)
