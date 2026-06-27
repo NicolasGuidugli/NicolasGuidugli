@@ -11,13 +11,12 @@ Nas horas vagas, você me acha nos games. 🎮
 
 ## ⚙️ Tecnologias que eu utilizo
 
-
 ### Back-end
 [![Java](https://skillicons.dev/icons?i=java)](https://java.com)
 [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io)
-[![JPA Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)(#)
-[![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)](#)
-[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](#)
+[![Hibernate](https://skillicons.dev/icons?i=hibernate)](https://hibernate.org)
+[![REST API](https://skillicons.dev/icons?i=fastapi)](https://developer.mozilla.org/docs/Web/HTTP)
+[![Swagger](https://skillicons.dev/icons?i=swagger)](https://swagger.io)
 
 ### Front-end
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
@@ -28,7 +27,7 @@ Nas horas vagas, você me acha nos games. 🎮
 
 ### Banco de Dados
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://postgresql.org)
-[![Neon](https://img.shields.io/badge/Neon-00E5CC?style=for-the-badge&logo=neon&logoColor=black)](#)
+[![Neon](https://skillicons.dev/icons?i=neon)](https://neon.tech)
 
 ### Ferramentas
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
@@ -36,7 +35,6 @@ Nas horas vagas, você me acha nos games. 🎮
 ---
 
 ## 📊 Minhas Estatísticas
-
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasGuidugli&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasGuidugli&layout=compact&theme=dark&hide_border=true)
@@ -48,7 +46,7 @@ Nas horas vagas, você me acha nos games. 🎮
 ## ⚡ Vamos conversar?
 
 Adoro trocar ideias sobre projetos, tecnologia ou qualquer coisa que você esteja construindo.  
-Me chama! 
+Me chama!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-eduardo-774345360/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicolasGuidugli)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nicolas-eduardo-774345360/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/NicolasGuidugli)
