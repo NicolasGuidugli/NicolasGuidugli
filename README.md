@@ -15,11 +15,7 @@ Nas horas vagas, você me acha nos games. 🎮
 ### Back-end
 [![Java](https://skillicons.dev/icons?i=java)](https://java.com)
 [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io)
-[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](#)
 [![JPA Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](#)
-[![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge&logo=lombok&logoColor=white)](#)
-[![JavaFX](https://img.shields.io/badge/JavaFX-0A8FDC?style=for-the-badge&logo=java&logoColor=white)](#)
-[![Java Swing](https://img.shields.io/badge/Java%20Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
 [![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)](#)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](#)
 
@@ -29,7 +25,6 @@ Nas horas vagas, você me acha nos games. 🎮
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://javascript.com)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/docs/Web/CSS)
-[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](#)
 
 ### Banco de Dados
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://postgresql.org)
