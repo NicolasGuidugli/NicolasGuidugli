@@ -15,24 +15,27 @@ Nas horas vagas, você me acha nos games. 🎮
 ### Back-end
 [![Java](https://skillicons.dev/icons?i=java)](https://java.com)
 [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://postgresql.org)
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](#)
 [![JPA Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](#)
 [![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)](#)
-[![Neon](https://img.shields.io/badge/Neon-00E5CC?style=for-the-badge&logo=neon&logoColor=black)](#)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](#)
 [![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge&logo=lombok&logoColor=white)](#)
 
-### Interfaces Graficas (GUI)
-[![JavaFX](https://img.shields.io/badge/JavaFX-0A8FDC?style=for-the-badge&logo=java&logoColor=white)](#)
-[![Java Swing](https://img.shields.io/badge/Java%20Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
-
 ### Front-end
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://javascript.com)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/docs/Web/CSS)
 [![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](#)
+
+### Banco de Dados
+[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://postgresql.org)
+[![Neon](https://img.shields.io/badge/Neon-00E5CC?style=for-the-badge&logo=neon&logoColor=black)](#)
+
+### Interfaces Graficas (GUI)
+[![JavaFX](https://img.shields.io/badge/JavaFX-0A8FDC?style=for-the-badge&logo=java&logoColor=white)](#)
+[![Java Swing](https://img.shields.io/badge/Java%20Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
 
 ### Ferramentas
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
