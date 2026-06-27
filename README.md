@@ -16,7 +16,7 @@ Nas horas vagas, você me acha nos games. 🎮
 [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io)
 [![Hibernate](https://skillicons.dev/icons?i=hibernate)](https://hibernate.org)
 [![REST API](https://skillicons.dev/icons?i=fastapi)](https://developer.mozilla.org/docs/Web/HTTP)
-[![Swagger](https://skillicons.dev/icons?i=swagger)](https://swagger.io)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io)
 
 ### Front-end
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
@@ -27,7 +27,7 @@ Nas horas vagas, você me acha nos games. 🎮
 
 ### Banco de Dados
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://postgresql.org)
-[![Neon](https://skillicons.dev/icons?i=neon)](https://neon.tech)
+[![Neon](https://img.shields.io/badge/Neon-00E5CC?style=for-the-badge&logo=neon&logoColor=black)](https://neon.tech)
 
 ### Ferramentas
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
