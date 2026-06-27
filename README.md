@@ -39,7 +39,6 @@ Nas horas vagas, você me acha nos games. 🎮
 
 ### Ferramentas
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](https://app.diagrams.net)
 
 ---
 
