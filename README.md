@@ -34,16 +34,6 @@ Nas horas vagas, você me acha nos games. 🎮
 
 ---
 
-## 📊 Minhas Estatísticas
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-github-io.vercel.app/api?username=NicolasGuidugli&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![Most Used Languages](https://github-readme-stats-github-io.vercel.app/api/top-langs/?username=NicolasGuidugli&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ## ⚡ Vamos conversar?
 
 Adoro trocar ideias sobre projetos, tecnologia ou qualquer coisa que você esteja construindo.  
